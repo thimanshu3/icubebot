@@ -1,0 +1,138 @@
+.flip {
+    height: 300px;
+    width: 300px;
+    margin: auto auto auto auto;
+    border-radius: 3px;
+    margin-top: 5%;
+    background-color: white;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    text-align: justify;
+
+
+}
+
+.flip .back {
+    background: white;
+    color: #888888 ;
+    
+    border-radius: 5px;
+    display: block;
+}
+
+
+.text{
+  color: black;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 2rem;
+  margin: 3%;
+  text-decoration: none;
+
+}
+.btn-outline-info{
+  margin-top: 17%;
+  border: 2px solid blue;
+  margin-left: 37%;
+  font-size: 1.8rem;
+
+}
+  /*Trigger Button*/
+.login-trigger {
+  font-weight: bold; color: #fff; background: linear-gradient(to bottom right, #B05574, #F87E7B);
+  padding: 15px 30px;
+  border-radius: 3px;
+}
+
+/*Modal*/
+h4 {
+  font-weight: bold;
+  color: #fff;
+}
+.close {
+  color: #fff;
+  transform: scale(1.2)
+}
+.modal-content {
+  font-weight: bold;
+  background: white;
+}
+.form-control {
+  margin: 1em 0;
+}
+.form-control:hover, .form-control:focus {
+  box-shadow: none;  
+  border-color: #fff;
+}
+.username, .password {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  border-bottom: 2px solid #eee;
+  padding-left: 0;
+  font-weight: normal;
+  background: transparent;  
+}
+.form-control::-webkit-input-placeholder {
+  color: #eee;  
+}
+.form-control:focus::-webkit-input-placeholder {
+  font-weight: bold;
+  color: #fff;
+}
+.login {
+  padding: 6px 20px;
+  border-radius: 20px;
+  background: none;
+  border: 2px solid #FAB87F;
+  color: white;
+  font-weight: bold;
+  transition: all .5s;
+  margin-top: 1em;
+}
+.login:hover {
+  background: #FAB87F;
+  color: #fff;
+}
+
+.swiper-container {
+  width: 100%;
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  background-color: #fff;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.picture {
+  width: 425px;
+  height: 320px;
+  overflow: hidden;
+}
+.picture img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.detail {
+  padding: 20px 15px;
+  font-weight: 600;
+  text-align: center;
+}
+.detail h3 {
+  margin: 0;
+  font-size: 20px;
+}
+.detail span {
+  font-size: 16px;
+  color: #f44336;
+}
+

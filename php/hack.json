@@ -1,0 +1,68 @@
+ [
+
+
+  {
+    "title_hack": "Bounce Hack 1.0",
+    "company_name": "Bounce",
+    "link_hack": "https://www.hackerearth.com/challenges/hackathon/bounce-hackathon/",
+    "image_link": "https://media-fastly.hackerearth.com/media/hackathon/bounce-hackathon/images/ec28d81098-Bounce_Social_Media_Sharing-01.png"
+  },
+  {
+    "title_hack": "Junction Online: Impact Hackathon",
+    "company_name": "Junction",
+    "link_hack": "https://junction.hackerearth.com/",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qmcARUUR1hTlHGlHO4xNYxWph7SL-ybCuXle5_wWyWD6kh5X"
+  },
+  {
+    "title_hack": "NEC Hackathon: Transport",
+    "company_name": "HackerEarth",
+    "link_hack": "https://www.hackerearth.com/challenges/hackathon/nec-hackathon-transport/",
+    "image_link": "https://www.uitp.org/sites/default/files/cck-galery-events/2nd-Y4PT-Global-Transport-Hackathon-Dubai-2018.png"
+  },
+  {
+    "title_hack": "Missing Hackathon",
+    "company_name": "HackerEarth",
+    "link_hack": "https://www.hackerearth.com/challenges/hackathon/missing-hackathon/",
+    "image_link": "https://media-fastly.hackerearth.com/media/hackathon/missing-hackathon/images/c22bb10c9f-2019-07-05.jpg"
+  },
+  {
+    "title_hack": "Genesis Hack - The Blockchain Hackathon",
+    "company_name": "IBC Media",
+    "link_hack": "https://www.hackerearth.com/challenges/hackathon/genesis-hack-2019/",
+    "image_link": "https://www.genesishack.com/img/OG-image.jpg"
+  },
+  {
+    "title_hack": "Let the fight begin",
+    "company_name": "HackerEarth",
+    "link_hack": "https://www.hackerearth.com/codearena/about/",
+    "image_link": "https://static-fastly.hackerearth.com/static/fight_club/images/code-arena-ogg.jpg"
+  },
+
+  {
+    "title_hack": "HourStorm #13",
+    "company_name": "HackerEarth",
+    "link_hack": "https://www.hackerearth.com/challenges/competitive/hourstorm-13/",
+    "image_link": "https://media-fastly.hackerearth.com/media/hackathon/hourstorm-13/images/5d1357de9e-Apollo-Ad-Hourstorm.jpg"
+  },
+
+  {
+    "title_hack": "Sangam 2019 - ML Hackathon by IITMAA",
+    "company_name": "IIT Madras Alumni Association",
+    "link_hack": "https://www.hackerearth.com/challenges/competitive/IIT-Madras-Sangam-ML-Hackathon-2019/register/?next=/challenges/competitive/IIT-Madras-Sangam-ML-Hackathon-2019/",
+    "image_link": "https://media-fastly.hackerearth.com/media/hackathon/IIT-Madras-Sangam-ML-Hackathon-2019/images/0335970c9e-IIT_Madras_HE_Cover-01-01.png"
+  },
+
+  {
+    "title_hack": "She codes, Indeed challenge 2019",
+    "company_name": "Indeed India Operations Pvt Ltd",
+    "link_hack": "https://www.hackerearth.com/challenges/competitive/she-codes-indeed-challenge-2019/register/?next=/challenges/competitive/she-codes-indeed-challenge-2019/",
+    "image_link": "https://d8it4huxumps7.cloudfront.net/uploads/competition-sharable/output_83588.jpg"
+  },
+
+  {
+    "title_hack": "Python code challenge",
+    "company_name": "Intel",
+    "link_hack": "https://www.hackerearth.com/challenges/hackathon/intel-python-hackfury2/",
+    "image_link": "https://cdna.artstation.com/p/assets/images/images/010/240/132/large/einar-einarsson-hackfury-mainmenu.jpg?1523360512",
+  }
+]
